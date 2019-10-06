@@ -99,6 +99,9 @@ class TelaInicial  : DebugActivity(), NavigationView.OnNavigationItemSelectedLis
             R.id.nav_config -> {
                 Toast.makeText(this, "Clicou Config", Toast.LENGTH_SHORT).show()
             }
+            R.id.nav_sair -> {
+                finishAffinity()
+            }
         }
 // fecha menu depois de tratar o evento
         layoutMenuLateral.closeDrawer(GravityCompat.START)
