@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709671898250",
+    "firebase_url": "https://lmsapp-7ca09.firebaseio.com",
+    "project_id": "lmsapp-7ca09",
+    "storage_bucket": "lmsapp-7ca09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709671898250:android:ebfbf682e48c99212df173",
+        "android_client_info": {
+          "package_name": "br.com.teamofsix.scepe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709671898250-so9oq646q9vgsc5mphecibplcq4is3ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMBV8gm9CXtwyTzKvmS2PsI3AvT50Z7rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709671898250-so9oq646q9vgsc5mphecibplcq4is3ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
